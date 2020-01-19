@@ -48,16 +48,18 @@ li a:hover {
 	top: 0;
 	width: 100%;
 	padding-top: 24px;
-	font-size: 12px;	
+	font-size: 12px;
+	padding-left: 20px;	
 }
 
 .header-right {
 	float: right;
+	padding-right: 30px;
 }
 
 .content{
 	display: block;
-	margin: 50px;
+	margin-top: 180px;
 	text-align: center;
 }
 
@@ -70,6 +72,7 @@ li a:hover {
 	border: 1px solid #e4e4e4;
  	background-color: #f2f2f2;
  	font-size: 14px;
+	padding-left: 20px;	
 }
 
 .footer a {
@@ -78,4 +81,5 @@ li a:hover {
 
 .footer-right {
 	float: right;
+	padding-right: 30px;
 }
