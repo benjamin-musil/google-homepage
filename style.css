@@ -97,6 +97,29 @@ li a:hover {
    	margin-right: auto;
 }
 
+.submit-button {
+	display: inline;
+}
+
+.submit {
+	text-align: center;
+	margin-top: 25px;
+}
+
+#Google-search, #feeling-lucky {
+	font-family: arial;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #f4f4f4;
+	color: #5f6368;
+	border: none;
+	margin: 5px; 
+}
+
+#Google-search:hover, #feeling-lucky:hover {
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+}
+
 img#apps {
 	height: auto;
 	width: 28px;
